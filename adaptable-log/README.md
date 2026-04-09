@@ -1,7 +1,8 @@
-This folder contains adaptable workflow examples.
+This folder contains adaptable log examples.
 
 
 Official Docmentation Links:
 
-About Adaptable Workflows: (https://docs.venafi.com/Docs/current/TopNav/Content/Workflow/c-workflow-adaptable-workfow-overview.php)
-Workflow stage codes for certificates: (https://docs.venafi.com/Docs/current/TopNav/Content/SDK/WebSDK/r-SDK-Workflow-CertificateStageCodes.php)
+Adaptable Log Channel: (https://docs.venafi.com/Docs/current/TopNav/Content/Logging/c-logging-AdaptableChannel-config-tpp.php)
+Create Custom Log Events: (https://community.cyberark.com/s/article/How-To-Create-custom-event-definitions-or-custom-event-logs).
+[Example: creating a ServiceNow incident for expiring certificates](https://docs.venafi.com/Docs/current/TopNav/Content/Drivers/c-drivers-AdaptableLog-PSscript-example.php).
